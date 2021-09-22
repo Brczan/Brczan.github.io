@@ -1,0 +1,44 @@
+.group {
+  width: 900px;
+}
+
+.aqua {
+  background-color: aqua;
+  height: 100px;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 150px;
+}
+
+.red {
+  background-color: red;
+  width: 500px;
+  position: relative;
+}
+.black {
+  background-color: black;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
+
+.purple {
+  background-color: purple;
+  width: 150px;
+}
+
+.blue {
+  background-color: blue;
+  height: 100px;
+}
+
+.yrbp {
+  display: flex;
+  width: 900px;
+  height: 400px;
+  justify-content: space-between;
+}
